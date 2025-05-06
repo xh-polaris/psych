@@ -1,0 +1,15 @@
+[submodule "psych-idl"]
+	path = psych-idl
+	url = git@github.com:xh-polaris/psych-idl.git
+[submodule "psych-user"]
+	path = psych-user
+	url = git@github.com:xh-polaris/psych-user.git
+[submodule "psych-model"]
+	path = psych-model
+	url = git@github.com:xh-polaris/psych-model.git
+[submodule "psych-core-api"]
+	path = psych-core-api
+	url = git@github.com:xh-polaris/psych-core-api.git
+[submodule "psych-pkg"]
+	path = psych-pkg
+	url = git@github.com:xh-polaris/psych-pkg.git
